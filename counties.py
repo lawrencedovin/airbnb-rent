@@ -16,3 +16,16 @@ anne_arrundel_county = ['Annapolis', 'Crofton', 'Severn', 'Fort Meade', 'Deale',
             'Brooklyn Park', 'Mayo', 'Riva', 'Russett', 'Herald Harbor',
             'Odenton', 'Edgewater', 'Linthicum Heights', 'Shady Side', 'Ferndale',
             'Lake Shore', 'Londontowne', 'Friendship']
+
+prince_george_county = ['Bowie', 'Clinton', 'Fort Washington', 'Capitol Heights', 'District Heights',
+            'Mount Rainier', 'Berwyn Height', 'Brentwood', 'Edmonston', 'Seabrook',
+            'North Brentwood', 'Colmar Manor', 'Westphalia', 'Upper Marlboro', 'Largo',
+            'Oxon Hill', 'Temple Hills', 'Bladensburg', 'University Park', 'Glenarden',
+            'Mitchellville', 'Chillum', 'Hillcrest Heights', 'Marlow Heights', 'Forest Heights',
+            'Queenland', 'Laurel', 'College Park', 'Cheverly', 'Beltsville',
+            'Riverdale Park', 'Accokeek', 'Adelphi', 'Camp Spring', 'Fairmont Heights',
+            'Woodmore', 'Aquasco', 'Morningside', 'Glassmanor', 'Hyattsville',
+            'Greenbelt', 'Lanham', 'Brandywine', 'New Carrollton', 'Forestville',
+            'Langley Park', 'Glenn Dale', 'Landover Hills', 'Kettering', 'Cottage City',
+            'Walker Mill']
+
