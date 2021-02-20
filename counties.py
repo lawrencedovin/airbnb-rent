@@ -29,3 +29,9 @@ prince_george_county = ['Bowie', 'Clinton', 'Fort Washington', 'Capitol Heights'
             'Langley Park', 'Glenn Dale', 'Landover Hills', 'Kettering', 'Cottage City',
             'Walker Mill']
 
+frederick_county = ['Frederick', 'New Market', 'Emmitsburg', 'Jefferson', 'Adamstown',
+            'Sabillasville', 'Urbana', 'Walkersville', 'Monrovia', 'Buckeystown',
+            'Burkittsville', 'Rosemont', 'Thurmont', 'Ballenger Creek', 'Clover Hill',
+            'Woodsboro', 'Libertytown', 'Green Valley', 'Middletown', 'Brunswick',
+            'Myersville', 'Point of Rocks', 'Braddock Heights', 'Discovery-Spring Garden']
+
