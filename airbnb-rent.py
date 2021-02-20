@@ -1,18 +1,6 @@
 from counties import cities
-# cities = ['Rockville', 'Bethesda', 'Gaithersburg', 'Germantown', 'Olney',
-#             'Potomac', 'Takoma Park', 'Monthgomery Village', 'Wheaton', 'Clarksburg',
-#             'White Oak', 'Kensington', 'Burtonsville', 'North Potomac', 'North Bethesda',
-#             'Poolesville', 'Aspen Hill', 'Boyds', 'Darnestown', 'Damascus',
-#             'Brookeville', 'Colesville', 'Garrett Park', 'Laytonsville', 'Chevy Chase',
-#             'Washington Grove', 'Cabin John', 'Glen Echo', 'Fairland', 'Barnesville',
-#             'Leisure World', 'Cloverly', 'Dickerson', 'Kemp Mill', 'Travilah',
-#             'Chevy Chase View', 'Ashton-Sandy Spring', 'Friendship Village', 'North Kensington',
-#             'Kensingston', 'South Kensington', 'Redland', 'Brookmont', 'Somerset',
-#             'Silver Spring']
 
 sorted_cities = sorted(city.lower() for city in cities)
-
-# def find_town(county):
 
 answer = int(input('Alphabetical order type 1 check by town type 2 > '))
 
