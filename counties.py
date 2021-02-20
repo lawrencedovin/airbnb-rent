@@ -1,3 +1,5 @@
+import itertools
+
 montgomery_county = ['Rockville', 'Bethesda', 'Gaithersburg', 'Germantown', 'Olney',
             'Potomac', 'Takoma Park', 'Monthgomery Village', 'Wheaton', 'Clarksburg',
             'White Oak', 'Kensington', 'Burtonsville', 'North Potomac', 'North Bethesda',
@@ -34,4 +36,6 @@ frederick_county = ['Frederick', 'New Market', 'Emmitsburg', 'Jefferson', 'Adams
             'Burkittsville', 'Rosemont', 'Thurmont', 'Ballenger Creek', 'Clover Hill',
             'Woodsboro', 'Libertytown', 'Green Valley', 'Middletown', 'Brunswick',
             'Myersville', 'Point of Rocks', 'Braddock Heights', 'Discovery-Spring Garden']
+
+cities = list(itertools.chain(montgomery_county, anne_arrundel_county, prince_george_county, frederick_county))
 
